@@ -16,8 +16,8 @@
   </ItemGroup>
   
   <PropertyGroup>
-   <BaseIntermediateOutputPath>$(SolutionDir)\BuildArtifacts\obj\</BaseIntermediateOutputPath>
-   <OutputPath>$(SolutionDir)\BuildArtifacts\bin\</OutputPath>
+   <BaseIntermediateOutputPath>$(SolutionDir)\BuildArtifactsEFCore\obj\</BaseIntermediateOutputPath>
+   <OutputPath>$(SolutionDir)\BuildArtifactsEFCore\bin\</OutputPath>
   </PropertyGroup>
 
 </Project>

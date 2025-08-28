@@ -4,7 +4,7 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
   </PropertyGroup>
   <PropertyGroup>
-   <BaseIntermediateOutputPath>$(SolutionDir)\BuildArtifacts\obj\</BaseIntermediateOutputPath>
-   <OutputPath>$(SolutionDir)\BuildArtifacts\bin\</OutputPath>
+   <BaseIntermediateOutputPath>$(SolutionDir)\BuildArtifactsDomain\obj\</BaseIntermediateOutputPath>
+   <OutputPath>$(SolutionDir)\BuildArtifactsDomain\bin\</OutputPath>
   </PropertyGroup>
 </Project>

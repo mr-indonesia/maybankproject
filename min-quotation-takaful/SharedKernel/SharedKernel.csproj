@@ -9,8 +9,8 @@
   </ItemGroup>
   
   <PropertyGroup>
-   <BaseIntermediateOutputPath>$(SolutionDir)\BuildArtifacts\obj\</BaseIntermediateOutputPath>
-   <OutputPath>$(SolutionDir)\BuildArtifacts\bin\</OutputPath>
+   <BaseIntermediateOutputPath>$(SolutionDir)\BuildArtifactsSharedKernel\obj\</BaseIntermediateOutputPath>
+   <OutputPath>$(SolutionDir)\BuildArtifactsSharedKernel\bin\</OutputPath>
   </PropertyGroup>
 
 </Project>
