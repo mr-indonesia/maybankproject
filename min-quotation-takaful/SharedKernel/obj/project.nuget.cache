@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "0iYeMXbdbbk=",
+  "success": true,
+  "projectFilePath": "D:\\CodeReview\\QuotationService\\CloneGitHyundai\\min-quotation-takaful\\SharedKernel\\SharedKernel.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\johan.koesnandi\\.nuget\\packages\\dapper\\2.1.28\\dapper.2.1.28.nupkg.sha512"
+  ],
+  "logs": []
+}

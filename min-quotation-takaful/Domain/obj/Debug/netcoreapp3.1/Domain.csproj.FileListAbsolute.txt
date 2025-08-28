@@ -1,0 +1,9 @@
+D:\LearningByDoing_2024\NetCore2024\MyEngine\NayaCorpEngine\Domain\bin\Debug\netcoreapp3.1\Domain.deps.json
+D:\LearningByDoing_2024\NetCore2024\MyEngine\NayaCorpEngine\Domain\bin\Debug\netcoreapp3.1\Domain.dll
+D:\LearningByDoing_2024\NetCore2024\MyEngine\NayaCorpEngine\Domain\bin\Debug\netcoreapp3.1\Domain.pdb
+D:\LearningByDoing_2024\NetCore2024\MyEngine\NayaCorpEngine\Domain\obj\Debug\netcoreapp3.1\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\LearningByDoing_2024\NetCore2024\MyEngine\NayaCorpEngine\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfoInputs.cache
+D:\LearningByDoing_2024\NetCore2024\MyEngine\NayaCorpEngine\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfo.cs
+D:\LearningByDoing_2024\NetCore2024\MyEngine\NayaCorpEngine\Domain\obj\Debug\netcoreapp3.1\Domain.csproj.CoreCompileInputs.cache
+D:\LearningByDoing_2024\NetCore2024\MyEngine\NayaCorpEngine\Domain\obj\Debug\netcoreapp3.1\Domain.dll
+D:\LearningByDoing_2024\NetCore2024\MyEngine\NayaCorpEngine\Domain\obj\Debug\netcoreapp3.1\Domain.pdb

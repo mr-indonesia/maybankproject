@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>D:\DEPLOY\JOBSREMUN</_PublishTargetUrl>
+    <History>True|2025-01-31T08:12:29.7869219Z||;True|2025-01-31T15:02:07.7934472+07:00||;True|2025-01-27T18:01:46.5442030+07:00||;True|2025-01-23T08:44:17.3131370+07:00||;False|2025-01-23T08:42:08.6253342+07:00||;True|2025-01-23T08:26:43.9766168+07:00||;True|2025-01-23T06:38:00.1245679+07:00||;True|2025-01-23T06:00:49.3185532+07:00||;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>

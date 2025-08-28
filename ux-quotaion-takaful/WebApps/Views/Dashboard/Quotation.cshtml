@@ -1,0 +1,162 @@
+﻿@{
+    ViewData["Title"] = "Index";
+}
+
+<!--Main Content-->
+<div id="content">
+    <!--ACTION HEADER-->
+    <div class="alert alert-warning fade in" style="margin-top: 10px;">
+        <i class="fa fa-fw fa-warning"></i>
+        <b>Status: New</b>
+
+        @* <div class="btn-group pull-right">
+            <button class="btn btn-xs btn-success dropdown-toggle" data-toggle="dropdown">
+                <i class="fa fa-fw fa-tasks"></i> Action <span class="caret"></span>
+            </button>
+            <ul class="dropdown-menu">
+                <li>
+                    <a href="#">History</a>
+                </li>
+                <li>
+                    <a href="#">Submit</a>
+                </li>
+            </ul>
+        </div> *@
+    </div>
+    <!--END ACTION HEADER-->
+
+    <!--WIDGET GRID-->
+    <section id="widget-grid">
+        <!--Header Quotation-->
+        <div class="row">
+            <article class="col-sm-12">
+                <div class="jarviswidget" id="wid-id-0" data-widget-togglebutton="false" data-widget-editbutton="false" data-widget-fullscreenbutton="false" data-widget-colorbutton="false" data-widget-deletebutton="false">
+                    <!--HEADER WIDGET-->
+                    <header>
+                        <span class="widget-icon"><i class="fa fa-edit txt-color-darken"></i></span>
+                        <h2>Quotation Header</h2>
+                    </header>
+                    <!--END HEADER WIDGET-->
+
+                    <!--WIDGET DIV-->
+                    <div class="no-padding">
+                        <!--EDIT BOX-->
+                        <div class="jarviswidget-editbox">
+                        </div>
+                        <!--END EDIT BOX-->
+
+                        <!--WIDGET BODY-->
+                        <div class="widget-body">
+                            <div class="form-horizontal" style="margin-top: 10px;">
+                                <div class="col-md-6">
+                                    <div class="form-group">
+                                        <label class="col-md-4 control-label">Quotation No</label>
+                                        <div class="col-md-8">
+                                            <input type="text" name="QuotNo" value="1/ORD.AE/0/7/2025" class="form-control input-xs" readonly />
+                                        </div>
+                                    </div>
+                                    <div class="form-group">
+                                        <label class="col-md-4 control-label">Pemegang Polis</label>
+                                        <div class="col-md-8">
+                                            <input type="text" name="policyholder" value="PT. Alim Rugi" class="form-control input-xs" />
+                                        </div>
+                                    </div>
+                                    <div class="form-group">
+                                        <label class="col-md-4 control-label">LOB</label>
+                                        <div class="col-md-8">
+                                            <select class="form-control input-xs">
+                                                <option value="">Jasa Keuangan</option>
+                                                <option value="">Perkebunan</option>
+                                            </select>
+                                        </div>
+                                    </div>
+                                    <div class="form-group">
+                                        <label class="col-md-4 control-label">Product Group</label>
+                                        <div class="col-md-8">
+                                            <select class="form-control input-xs">
+                                                <option>GROUP - CREDIT LIFE</option>
+                                            </select>
+                                        </div>
+                                    </div>
+                                    <div class="form-group">
+                                        <label class="col-md-4 control-label">Product Name</label>
+                                        <div class="col-md-8">
+                                            <select class="form-control input-xs">
+                                                <option>-Select Product-</option>
+                                            </select>
+                                        </div>
+                                    </div>
+                                    <div class="form-group">
+                                        <label class="col-md-4 control-label">Nama Agent</label>
+                                        <div class="col-md-8">
+                                            <input type="text" class="form-control input-xs" placeholder="Entis Sutisna" readonly>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-md-6">
+                                    <div class="form-group">
+                                        <label class="col-md-4 control-label">Tanggal Pengajuan</label>
+                                        <div class="col-md-8">
+                                            <input type="text" class="form-control input-xs" placeholder="2025-07-09" readonly>
+                                        </div>
+                                    </div>
+                                    <div class="form-group">
+                                        <label class="col-md-4 control-label">Jenis Pengajuan</label>
+                                        <div class="col-md-8">
+                                            <select class="form-control input-xs">
+                                                <option>Baru</option>
+                                                <option>Tidak</option>
+                                            </select>
+                                        </div>
+                                    </div>
+                                    <div class="form-group">
+                                        <label class="col-md-4 control-label">Sifat Kepesertaan</label>
+                                        <div class="col-md-8">
+                                            <select class="form-control input-xs">
+                                                <option>Optional</option>
+                                                <option>Mandatory</option>
+                                            </select>
+                                        </div>
+                                    </div>
+                                    <div class="form-group">
+                                        <label class="col-md-4 control-label">Jumlah Peserta</label>
+                                        <div class="col-md-8">
+                                            <input type="text" class="form-control input-xs" value="0" readonly>
+                                        </div>
+                                    </div>
+                                    <div class="form-group">
+                                        <label class="col-md-4 control-label">Period From</label>
+                                        <div class="col-md-8">
+                                            <input type="text" name="periodfrom" value="2025-01-01" class="form-control input-xs" />
+                                        </div>
+                                    </div>
+                                    <div class="form-group">
+                                        <label class="col-md-4 control-label">Period To</label>
+                                        <div class="col-md-8">
+                                            <input type="text" name="periodto" value="2029-01-01" class="form-control input-xs" />
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-12 no-padding">
+                                <div class="smart-form">
+                                    <footer>
+                                        <button type="submit" class="btn btn-primary">
+                                            <i class="fa fa-fw fa-save"></i>Save
+                                        </button>
+                                    </footer>
+                                </div>
+                            </div>
+                        </div>
+                        <!--End WIDGET BODY-->
+                    </div>
+                    <!--End WIDGET DIV-->
+                </div>
+            </article>
+        </div>
+        <!--End Header Quotation-->
+    </section>
+    <!--WIDGET GRID-->
+</div>
+<!--End Main Content-->
+

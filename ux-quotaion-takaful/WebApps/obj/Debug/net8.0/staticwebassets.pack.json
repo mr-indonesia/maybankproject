@@ -1,0 +1,357 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\CodeReview\\QuotationService\\CloneGitHyundai\\ux-quotaion-takaful\\WebApps\\wwwroot\\Content\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\Content\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\CodeReview\\QuotationService\\CloneGitHyundai\\ux-quotaion-takaful\\WebApps\\wwwroot\\Content\\css\\demo.min.css",
+      "PackagePath": "staticwebassets\\Content\\css\\demo.min.css"
+    },
+    {
+      "Id": "D:\\CodeReview\\QuotationService\\CloneGitHyundai\\ux-quotaion-takaful\\WebApps\\wwwroot\\Content\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\Content\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "D:\\CodeReview\\QuotationService\\CloneGitHyundai\\ux-quotaion-takaful\\WebApps\\wwwroot\\Content\\css\\glyphicons-halflings-regular.woff2",
+      "PackagePath": "staticwebassets\\Content\\css\\glyphicons-halflings-regular.woff2"
+    },
+    {
+      "Id": "D:\\CodeReview\\QuotationService\\CloneGitHyundai\\ux-quotaion-takaful\\WebApps\\wwwroot\\Content\\css\\smartadmin-production-plugins.min.css",
+      "PackagePath": "staticwebassets\\Content\\css\\smartadmin-production-plugins.min.css"
+    },
+    {
+      "Id": "D:\\CodeReview\\QuotationService\\CloneGitHyundai\\ux-quotaion-takaful\\WebApps\\wwwroot\\Content\\css\\smartadmin-production.min.css",
+      "PackagePath": "staticwebassets\\Content\\css\\smartadmin-production.min.css"
+    },
+    {
+      "Id": "D:\\CodeReview\\QuotationService\\CloneGitHyundai\\ux-quotaion-takaful\\WebApps\\wwwroot\\Content\\css\\smartadmin-rtl.min.css",
+      "PackagePath": "staticwebassets\\Content\\css\\smartadmin-rtl.min.css"
+    },
+    {
+      "Id": "D:\\CodeReview\\QuotationService\\CloneGitHyundai\\ux-quotaion-takaful\\WebApps\\wwwroot\\Content\\css\\smartadmin-skins.min.css",
+      "PackagePath": "staticwebassets\\Content\\css\\smartadmin-skins.min.css"
+    },
+    {
+      "Id": "D:\\CodeReview\\QuotationService\\CloneGitHyundai\\ux-quotaion-takaful\\WebApps\\wwwroot\\Content\\fonts\\font-awesome\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\Content\\fonts\\font-awesome\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "D:\\CodeReview\\QuotationService\\CloneGitHyundai\\ux-quotaion-takaful\\WebApps\\wwwroot\\Content\\fonts\\glyphicons-halflings-regular.woff2",
+      "PackagePath": "staticwebassets\\Content\\fonts\\glyphicons-halflings-regular.woff2"
+    },
+    {
+      "Id": "D:\\CodeReview\\QuotationService\\CloneGitHyundai\\ux-quotaion-takaful\\WebApps\\wwwroot\\Content\\img\\avatars\\5.png",
+      "PackagePath": "staticwebassets\\Content\\img\\avatars\\5.png"
+    },
+    {
+      "Id": "D:\\CodeReview\\QuotationService\\CloneGitHyundai\\ux-quotaion-takaful\\WebApps\\wwwroot\\Content\\img\\avatars\\male.png",
+      "PackagePath": "staticwebassets\\Content\\img\\avatars\\male.png"
+    },
+    {
+      "Id": "D:\\CodeReview\\QuotationService\\CloneGitHyundai\\ux-quotaion-takaful\\WebApps\\wwwroot\\Content\\img\\avatars\\sunny.png",
+      "PackagePath": "staticwebassets\\Content\\img\\avatars\\sunny.png"
+    },
+    {
+      "Id": "D:\\CodeReview\\QuotationService\\CloneGitHyundai\\ux-quotaion-takaful\\WebApps\\wwwroot\\Content\\img\\blank.gif",
+      "PackagePath": "staticwebassets\\Content\\img\\blank.gif"
+    },
+    {
+      "Id": "D:\\CodeReview\\QuotationService\\CloneGitHyundai\\ux-quotaion-takaful\\WebApps\\wwwroot\\Content\\img\\flags\\flags.png",
+      "PackagePath": "staticwebassets\\Content\\img\\flags\\flags.png"
+    },
+    {
+      "Id": "D:\\CodeReview\\QuotationService\\CloneGitHyundai\\ux-quotaion-takaful\\WebApps\\wwwroot\\Content\\img\\logo.png",
+      "PackagePath": "staticwebassets\\Content\\img\\logo.png"
+    },
+    {
+      "Id": "D:\\CodeReview\\QuotationService\\CloneGitHyundai\\ux-quotaion-takaful\\WebApps\\wwwroot\\Content\\img\\mybg.png",
+      "PackagePath": "staticwebassets\\Content\\img\\mybg.png"
+    },
+    {
+      "Id": "D:\\CodeReview\\QuotationService\\CloneGitHyundai\\ux-quotaion-takaful\\WebApps\\wwwroot\\Content\\img\\mytakafullogo.png",
+      "PackagePath": "staticwebassets\\Content\\img\\mytakafullogo.png"
+    },
+    {
+      "Id": "D:\\CodeReview\\QuotationService\\CloneGitHyundai\\ux-quotaion-takaful\\WebApps\\wwwroot\\Content\\img\\pattern\\overlay-pattern.png",
+      "PackagePath": "staticwebassets\\Content\\img\\pattern\\overlay-pattern.png"
+    },
+    {
+      "Id": "D:\\CodeReview\\QuotationService\\CloneGitHyundai\\ux-quotaion-takaful\\WebApps\\wwwroot\\Content\\js\\app.config.js",
+      "PackagePath": "staticwebassets\\Content\\js\\app.config.js"
+    },
+    {
+      "Id": "D:\\CodeReview\\QuotationService\\CloneGitHyundai\\ux-quotaion-takaful\\WebApps\\wwwroot\\Content\\js\\app.min.js",
+      "PackagePath": "staticwebassets\\Content\\js\\app.min.js"
+    },
+    {
+      "Id": "D:\\CodeReview\\QuotationService\\CloneGitHyundai\\ux-quotaion-takaful\\WebApps\\wwwroot\\Content\\js\\bootstrap\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\Content\\js\\bootstrap\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\CodeReview\\QuotationService\\CloneGitHyundai\\ux-quotaion-takaful\\WebApps\\wwwroot\\Content\\js\\demo.min.js",
+      "PackagePath": "staticwebassets\\Content\\js\\demo.min.js"
+    },
+    {
+      "Id": "D:\\CodeReview\\QuotationService\\CloneGitHyundai\\ux-quotaion-takaful\\WebApps\\wwwroot\\Content\\js\\notification\\SmartNotification.min.js",
+      "PackagePath": "staticwebassets\\Content\\js\\notification\\SmartNotification.min.js"
+    },
+    {
+      "Id": "D:\\CodeReview\\QuotationService\\CloneGitHyundai\\ux-quotaion-takaful\\WebApps\\wwwroot\\Content\\js\\plugin\\bootstrap-slider\\bootstrap-slider.min.js",
+      "PackagePath": "staticwebassets\\Content\\js\\plugin\\bootstrap-slider\\bootstrap-slider.min.js"
+    },
+    {
+      "Id": "D:\\CodeReview\\QuotationService\\CloneGitHyundai\\ux-quotaion-takaful\\WebApps\\wwwroot\\Content\\js\\plugin\\easy-pie-chart\\jquery.easy-pie-chart.min.js",
+      "PackagePath": "staticwebassets\\Content\\js\\plugin\\easy-pie-chart\\jquery.easy-pie-chart.min.js"
+    },
+    {
+      "Id": "D:\\CodeReview\\QuotationService\\CloneGitHyundai\\ux-quotaion-takaful\\WebApps\\wwwroot\\Content\\js\\plugin\\fastclick\\fastclick.min.js",
+      "PackagePath": "staticwebassets\\Content\\js\\plugin\\fastclick\\fastclick.min.js"
+    },
+    {
+      "Id": "D:\\CodeReview\\QuotationService\\CloneGitHyundai\\ux-quotaion-takaful\\WebApps\\wwwroot\\Content\\js\\plugin\\flot\\jquery.flot.cust.min.js",
+      "PackagePath": "staticwebassets\\Content\\js\\plugin\\flot\\jquery.flot.cust.min.js"
+    },
+    {
+      "Id": "D:\\CodeReview\\QuotationService\\CloneGitHyundai\\ux-quotaion-takaful\\WebApps\\wwwroot\\Content\\js\\plugin\\flot\\jquery.flot.resize.min.js",
+      "PackagePath": "staticwebassets\\Content\\js\\plugin\\flot\\jquery.flot.resize.min.js"
+    },
+    {
+      "Id": "D:\\CodeReview\\QuotationService\\CloneGitHyundai\\ux-quotaion-takaful\\WebApps\\wwwroot\\Content\\js\\plugin\\flot\\jquery.flot.time.min.js",
+      "PackagePath": "staticwebassets\\Content\\js\\plugin\\flot\\jquery.flot.time.min.js"
+    },
+    {
+      "Id": "D:\\CodeReview\\QuotationService\\CloneGitHyundai\\ux-quotaion-takaful\\WebApps\\wwwroot\\Content\\js\\plugin\\flot\\jquery.flot.tooltip.min.js",
+      "PackagePath": "staticwebassets\\Content\\js\\plugin\\flot\\jquery.flot.tooltip.min.js"
+    },
+    {
+      "Id": "D:\\CodeReview\\QuotationService\\CloneGitHyundai\\ux-quotaion-takaful\\WebApps\\wwwroot\\Content\\js\\plugin\\fullcalendar\\fullcalendar.min.js",
+      "PackagePath": "staticwebassets\\Content\\js\\plugin\\fullcalendar\\fullcalendar.min.js"
+    },
+    {
+      "Id": "D:\\CodeReview\\QuotationService\\CloneGitHyundai\\ux-quotaion-takaful\\WebApps\\wwwroot\\Content\\js\\plugin\\jquery-touch\\jquery.ui.touch-punch.min.js",
+      "PackagePath": "staticwebassets\\Content\\js\\plugin\\jquery-touch\\jquery.ui.touch-punch.min.js"
+    },
+    {
+      "Id": "D:\\CodeReview\\QuotationService\\CloneGitHyundai\\ux-quotaion-takaful\\WebApps\\wwwroot\\Content\\js\\plugin\\jquery-validate\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\Content\\js\\plugin\\jquery-validate\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\CodeReview\\QuotationService\\CloneGitHyundai\\ux-quotaion-takaful\\WebApps\\wwwroot\\Content\\js\\plugin\\masked-input\\jquery.maskedinput.min.js",
+      "PackagePath": "staticwebassets\\Content\\js\\plugin\\masked-input\\jquery.maskedinput.min.js"
+    },
+    {
+      "Id": "D:\\CodeReview\\QuotationService\\CloneGitHyundai\\ux-quotaion-takaful\\WebApps\\wwwroot\\Content\\js\\plugin\\moment\\moment.min.js",
+      "PackagePath": "staticwebassets\\Content\\js\\plugin\\moment\\moment.min.js"
+    },
+    {
+      "Id": "D:\\CodeReview\\QuotationService\\CloneGitHyundai\\ux-quotaion-takaful\\WebApps\\wwwroot\\Content\\js\\plugin\\msie-fix\\jquery.mb.browser.min.js",
+      "PackagePath": "staticwebassets\\Content\\js\\plugin\\msie-fix\\jquery.mb.browser.min.js"
+    },
+    {
+      "Id": "D:\\CodeReview\\QuotationService\\CloneGitHyundai\\ux-quotaion-takaful\\WebApps\\wwwroot\\Content\\js\\plugin\\pace\\pace.min.js",
+      "PackagePath": "staticwebassets\\Content\\js\\plugin\\pace\\pace.min.js"
+    },
+    {
+      "Id": "D:\\CodeReview\\QuotationService\\CloneGitHyundai\\ux-quotaion-takaful\\WebApps\\wwwroot\\Content\\js\\plugin\\select2\\select2.min.js",
+      "PackagePath": "staticwebassets\\Content\\js\\plugin\\select2\\select2.min.js"
+    },
+    {
+      "Id": "D:\\CodeReview\\QuotationService\\CloneGitHyundai\\ux-quotaion-takaful\\WebApps\\wwwroot\\Content\\js\\plugin\\sparkline\\jquery.sparkline.min.js",
+      "PackagePath": "staticwebassets\\Content\\js\\plugin\\sparkline\\jquery.sparkline.min.js"
+    },
+    {
+      "Id": "D:\\CodeReview\\QuotationService\\CloneGitHyundai\\ux-quotaion-takaful\\WebApps\\wwwroot\\Content\\js\\plugin\\vectormap\\jquery-jvectormap-1.2.2.min.js",
+      "PackagePath": "staticwebassets\\Content\\js\\plugin\\vectormap\\jquery-jvectormap-1.2.2.min.js"
+    },
+    {
+      "Id": "D:\\CodeReview\\QuotationService\\CloneGitHyundai\\ux-quotaion-takaful\\WebApps\\wwwroot\\Content\\js\\plugin\\vectormap\\jquery-jvectormap-world-mill-en.js",
+      "PackagePath": "staticwebassets\\Content\\js\\plugin\\vectormap\\jquery-jvectormap-world-mill-en.js"
+    },
+    {
+      "Id": "D:\\CodeReview\\QuotationService\\CloneGitHyundai\\ux-quotaion-takaful\\WebApps\\wwwroot\\Content\\js\\smart-chat-ui\\smart.chat.manager.min.js",
+      "PackagePath": "staticwebassets\\Content\\js\\smart-chat-ui\\smart.chat.manager.min.js"
+    },
+    {
+      "Id": "D:\\CodeReview\\QuotationService\\CloneGitHyundai\\ux-quotaion-takaful\\WebApps\\wwwroot\\Content\\js\\smart-chat-ui\\smart.chat.ui.min.js",
+      "PackagePath": "staticwebassets\\Content\\js\\smart-chat-ui\\smart.chat.ui.min.js"
+    },
+    {
+      "Id": "D:\\CodeReview\\QuotationService\\CloneGitHyundai\\ux-quotaion-takaful\\WebApps\\wwwroot\\Content\\js\\smartadmin.js",
+      "PackagePath": "staticwebassets\\Content\\js\\smartadmin.js"
+    },
+    {
+      "Id": "D:\\CodeReview\\QuotationService\\CloneGitHyundai\\ux-quotaion-takaful\\WebApps\\wwwroot\\Content\\js\\smartwidgets\\jarvis.widget.min.js",
+      "PackagePath": "staticwebassets\\Content\\js\\smartwidgets\\jarvis.widget.min.js"
+    },
+    {
+      "Id": "D:\\CodeReview\\QuotationService\\CloneGitHyundai\\ux-quotaion-takaful\\WebApps\\wwwroot\\Content\\js\\speech\\voicecommand.min.js",
+      "PackagePath": "staticwebassets\\Content\\js\\speech\\voicecommand.min.js"
+    },
+    {
+      "Id": "D:\\CodeReview\\QuotationService\\CloneGitHyundai\\ux-quotaion-takaful\\WebApps\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\CodeReview\\QuotationService\\CloneGitHyundai\\ux-quotaion-takaful\\WebApps\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\CodeReview\\QuotationService\\CloneGitHyundai\\ux-quotaion-takaful\\WebApps\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\CodeReview\\QuotationService\\CloneGitHyundai\\ux-quotaion-takaful\\WebApps\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\CodeReview\\QuotationService\\CloneGitHyundai\\ux-quotaion-takaful\\WebApps\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\CodeReview\\QuotationService\\CloneGitHyundai\\ux-quotaion-takaful\\WebApps\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\CodeReview\\QuotationService\\CloneGitHyundai\\ux-quotaion-takaful\\WebApps\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\CodeReview\\QuotationService\\CloneGitHyundai\\ux-quotaion-takaful\\WebApps\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\CodeReview\\QuotationService\\CloneGitHyundai\\ux-quotaion-takaful\\WebApps\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\CodeReview\\QuotationService\\CloneGitHyundai\\ux-quotaion-takaful\\WebApps\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\CodeReview\\QuotationService\\CloneGitHyundai\\ux-quotaion-takaful\\WebApps\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\CodeReview\\QuotationService\\CloneGitHyundai\\ux-quotaion-takaful\\WebApps\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\CodeReview\\QuotationService\\CloneGitHyundai\\ux-quotaion-takaful\\WebApps\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\CodeReview\\QuotationService\\CloneGitHyundai\\ux-quotaion-takaful\\WebApps\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\CodeReview\\QuotationService\\CloneGitHyundai\\ux-quotaion-takaful\\WebApps\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\CodeReview\\QuotationService\\CloneGitHyundai\\ux-quotaion-takaful\\WebApps\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\CodeReview\\QuotationService\\CloneGitHyundai\\ux-quotaion-takaful\\WebApps\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\CodeReview\\QuotationService\\CloneGitHyundai\\ux-quotaion-takaful\\WebApps\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\CodeReview\\QuotationService\\CloneGitHyundai\\ux-quotaion-takaful\\WebApps\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\CodeReview\\QuotationService\\CloneGitHyundai\\ux-quotaion-takaful\\WebApps\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\CodeReview\\QuotationService\\CloneGitHyundai\\ux-quotaion-takaful\\WebApps\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\CodeReview\\QuotationService\\CloneGitHyundai\\ux-quotaion-takaful\\WebApps\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\CodeReview\\QuotationService\\CloneGitHyundai\\ux-quotaion-takaful\\WebApps\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\CodeReview\\QuotationService\\CloneGitHyundai\\ux-quotaion-takaful\\WebApps\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\CodeReview\\QuotationService\\CloneGitHyundai\\ux-quotaion-takaful\\WebApps\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\CodeReview\\QuotationService\\CloneGitHyundai\\ux-quotaion-takaful\\WebApps\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\CodeReview\\QuotationService\\CloneGitHyundai\\ux-quotaion-takaful\\WebApps\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\CodeReview\\QuotationService\\CloneGitHyundai\\ux-quotaion-takaful\\WebApps\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\CodeReview\\QuotationService\\CloneGitHyundai\\ux-quotaion-takaful\\WebApps\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\CodeReview\\QuotationService\\CloneGitHyundai\\ux-quotaion-takaful\\WebApps\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\CodeReview\\QuotationService\\CloneGitHyundai\\ux-quotaion-takaful\\WebApps\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\CodeReview\\QuotationService\\CloneGitHyundai\\ux-quotaion-takaful\\WebApps\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\CodeReview\\QuotationService\\CloneGitHyundai\\ux-quotaion-takaful\\WebApps\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\CodeReview\\QuotationService\\CloneGitHyundai\\ux-quotaion-takaful\\WebApps\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\CodeReview\\QuotationService\\CloneGitHyundai\\ux-quotaion-takaful\\WebApps\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\CodeReview\\QuotationService\\CloneGitHyundai\\ux-quotaion-takaful\\WebApps\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.WebApps.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.WebApps.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.WebApps.props",
+      "PackagePath": "build\\WebApps.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.WebApps.props",
+      "PackagePath": "buildMultiTargeting\\WebApps.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.WebApps.props",
+      "PackagePath": "buildTransitive\\WebApps.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

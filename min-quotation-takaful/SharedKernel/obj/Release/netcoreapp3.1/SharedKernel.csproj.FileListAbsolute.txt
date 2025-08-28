@@ -1,0 +1,10 @@
+D:\SourcecodeTakaful\TakafulJobs\SharedKernel\bin\Release\netcoreapp3.1\SharedKernel.deps.json
+D:\SourcecodeTakaful\TakafulJobs\SharedKernel\bin\Release\netcoreapp3.1\SharedKernel.dll
+D:\SourcecodeTakaful\TakafulJobs\SharedKernel\bin\Release\netcoreapp3.1\SharedKernel.pdb
+D:\SourcecodeTakaful\TakafulJobs\SharedKernel\obj\Release\netcoreapp3.1\SharedKernel.csproj.AssemblyReference.cache
+D:\SourcecodeTakaful\TakafulJobs\SharedKernel\obj\Release\netcoreapp3.1\SharedKernel.GeneratedMSBuildEditorConfig.editorconfig
+D:\SourcecodeTakaful\TakafulJobs\SharedKernel\obj\Release\netcoreapp3.1\SharedKernel.AssemblyInfoInputs.cache
+D:\SourcecodeTakaful\TakafulJobs\SharedKernel\obj\Release\netcoreapp3.1\SharedKernel.AssemblyInfo.cs
+D:\SourcecodeTakaful\TakafulJobs\SharedKernel\obj\Release\netcoreapp3.1\SharedKernel.csproj.CoreCompileInputs.cache
+D:\SourcecodeTakaful\TakafulJobs\SharedKernel\obj\Release\netcoreapp3.1\SharedKernel.dll
+D:\SourcecodeTakaful\TakafulJobs\SharedKernel\obj\Release\netcoreapp3.1\SharedKernel.pdb

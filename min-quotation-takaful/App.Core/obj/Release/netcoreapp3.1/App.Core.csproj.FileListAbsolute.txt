@@ -1,0 +1,15 @@
+D:\SourcecodeTakaful\TakafulJobs\App.Core\bin\Release\netcoreapp3.1\App.Core.deps.json
+D:\SourcecodeTakaful\TakafulJobs\App.Core\bin\Release\netcoreapp3.1\App.Core.dll
+D:\SourcecodeTakaful\TakafulJobs\App.Core\bin\Release\netcoreapp3.1\App.Core.pdb
+D:\SourcecodeTakaful\TakafulJobs\App.Core\bin\Release\netcoreapp3.1\DataAccess.EFCore.dll
+D:\SourcecodeTakaful\TakafulJobs\App.Core\bin\Release\netcoreapp3.1\SharedKernel.dll
+D:\SourcecodeTakaful\TakafulJobs\App.Core\bin\Release\netcoreapp3.1\DataAccess.EFCore.pdb
+D:\SourcecodeTakaful\TakafulJobs\App.Core\bin\Release\netcoreapp3.1\SharedKernel.pdb
+D:\SourcecodeTakaful\TakafulJobs\App.Core\obj\Release\netcoreapp3.1\App.Core.csproj.AssemblyReference.cache
+D:\SourcecodeTakaful\TakafulJobs\App.Core\obj\Release\netcoreapp3.1\App.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\SourcecodeTakaful\TakafulJobs\App.Core\obj\Release\netcoreapp3.1\App.Core.AssemblyInfoInputs.cache
+D:\SourcecodeTakaful\TakafulJobs\App.Core\obj\Release\netcoreapp3.1\App.Core.AssemblyInfo.cs
+D:\SourcecodeTakaful\TakafulJobs\App.Core\obj\Release\netcoreapp3.1\App.Core.csproj.CoreCompileInputs.cache
+D:\SourcecodeTakaful\TakafulJobs\App.Core\obj\Release\netcoreapp3.1\App.Core.csproj.Up2Date
+D:\SourcecodeTakaful\TakafulJobs\App.Core\obj\Release\netcoreapp3.1\App.Core.dll
+D:\SourcecodeTakaful\TakafulJobs\App.Core\obj\Release\netcoreapp3.1\App.Core.pdb

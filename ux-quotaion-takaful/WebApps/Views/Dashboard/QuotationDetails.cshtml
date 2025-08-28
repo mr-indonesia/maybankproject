@@ -1,0 +1,680 @@
+﻿@{
+    ViewData["Title"] = "Index";
+}
+
+<!--Main Content-->
+<div id="content">
+    <!--ACTION HEADER-->
+    <div class="alert alert-warning fade in" style="margin-top: 10px;">
+        <i class="fa fa-fw fa-warning"></i>
+        <b>Status: New</b>
+
+        <div class="btn-group pull-right">
+            <button class="btn btn-xs btn-success dropdown-toggle" data-toggle="dropdown">
+                <i class="fa fa-fw fa-tasks"></i> Action <span class="caret"></span>
+            </button>
+            <ul class="dropdown-menu">
+                <li>
+                    <a href="#">History</a>
+                </li>
+                <li>
+                    <a href="#">Submit</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+    <!--END ACTION HEADER-->
+    <!--WIDGET GRID-->
+    <section id="widget-grid">
+        <!--Header Quotation-->
+        <div class="row">
+            <article class="col-sm-12">
+                <div class="jarviswidget" id="wid-id-0" data-widget-togglebutton="false" data-widget-editbutton="false" data-widget-fullscreenbutton="false" data-widget-colorbutton="false" data-widget-deletebutton="false">
+                    <!--HEADER WIDGET-->
+                    <header>
+                        <span class="widget-icon"><i class="fa fa-edit txt-color-darken"></i></span>
+                        <h2>Quotation Header</h2>
+                    </header>
+                    <!--END HEADER WIDGET-->
+                    <!--WIDGET DIV-->
+                    <div class="no-padding">
+                        <!--EDIT BOX-->
+                        <div class="jarviswidget-editbox">
+                        </div>
+                        <!--END EDIT BOX-->
+                        <!--WIDGET BODY-->
+                        <div class="widget-body">
+                            <div class="form-horizontal" style="margin-top: 10px;">
+                                <div class="col-md-6">
+                                    <div class="form-group">
+                                        <label class="col-md-4 control-label">Quotation No</label>
+                                        <div class="col-md-8">
+                                            <input type="text" name="QuotNo" value="1/ORD.AE/0/7/2025" class="form-control input-xs" readonly />
+                                        </div>
+                                    </div>
+                                    <div class="form-group">
+                                        <label class="col-md-4 control-label">Pemegang Polis</label>
+                                        <div class="col-md-8">
+                                            <input type="text" name="policyholder" value="PT. Alim Rugi" class="form-control input-xs" />
+                                        </div>
+                                    </div>
+                                    <div class="form-group">
+                                        <label class="col-md-4 control-label">LOB</label>
+                                        <div class="col-md-8">
+                                            <select class="form-control input-xs">
+                                                <option value="">Jasa Keuangan</option>
+                                                <option value="">Perkebunan</option>
+                                            </select>
+                                        </div>
+                                    </div>
+                                    <div class="form-group">
+                                        <label class="col-md-4 control-label">Product Group</label>
+                                        <div class="col-md-8">
+                                            <select class="form-control input-xs">
+                                                <option>GROUP - CREDIT LIFE</option>
+                                            </select>
+                                        </div>
+                                    </div>
+                                    @* <div class="form-group">
+                                        <label class="col-md-4 control-label">Product Name</label>
+                                        <div class="col-md-8">
+                                            <select class="form-control input-xs">
+                                                <option>-Select Product-</option>
+                                            </select>
+                                        </div>
+                                    </div> *@
+                                    <div class="form-group">
+                                        <label class="col-md-4 control-label">Nama Agent</label>
+                                        <div class="col-md-8">
+                                            <input type="text" class="form-control input-xs" placeholder="Entis Sutisna" readonly>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-md-6">
+                                    <div class="form-group">
+                                        <label class="col-md-4 control-label">Tanggal Pengajuan</label>
+                                        <div class="col-md-8">
+                                            <input type="text" class="form-control input-xs" placeholder="2025-07-09" readonly>
+                                        </div>
+                                    </div>
+                                    <div class="form-group">
+                                        <label class="col-md-4 control-label">Jenis Pengajuan</label>
+                                        <div class="col-md-8">
+                                            <select class="form-control input-xs">
+                                                <option>Baru</option>
+                                                <option>Tidak</option>
+                                            </select>
+                                        </div>
+                                    </div>
+                                    <div class="form-group">
+                                        <label class="col-md-4 control-label">Sifat Kepesertaan</label>
+                                        <div class="col-md-8">
+                                            <select class="form-control input-xs">
+                                                <option>Optional</option>
+                                                <option>Mandatory</option>
+                                            </select>
+                                        </div>
+                                    </div>
+                                    <div class="form-group">
+                                        <label class="col-md-4 control-label">Jumlah Peserta</label>
+                                        <div class="col-md-8">
+                                            <input type="text" class="form-control input-xs" value="0" readonly>
+                                        </div>
+                                    </div>
+                                    <div class="form-group">
+                                        <label class="col-md-4 control-label">Period From</label>
+                                        <div class="col-md-8">
+                                            <input type="text" name="periodfrom" value="2025-01-01" class="form-control input-xs" />
+                                        </div>
+                                    </div>
+                                    <div class="form-group">
+                                        <label class="col-md-4 control-label">Period To</label>
+                                        <div class="col-md-8">
+                                            <input type="text" name="periodto" value="2029-01-01" class="form-control input-xs" />
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <!--End WIDGET BODY-->
+                    </div>
+                    <!--End WIDGET DIV-->
+                </div>
+            
+                <div class="jarviswidget" id="wid-id-1" data-widget-togglebutton="false" data-widget-editbutton="false" data-widget-fullscreenbutton="false" data-widget-colorbutton="false" data-widget-deletebutton="false">
+                    <header>
+                        <span class="widget-icon"> <i class="fa fa-edit"></i> </span>
+                        <h2>Quotation Details</h2>
+                    </header>
+
+                    <!-- widget div-->
+                    <div>
+                        <!-- widget edit box -->
+                        <div class="jarviswidget-editbox">
+                            <!-- This area used as dropdown edit box -->
+                        </div>
+                        <!-- end widget edit box -->
+
+                        <!-- widget content -->
+                        <div class="widget-body no-padding">
+                            <ul id="myTab2" class="nav nav-tabs">
+                                <li class="active">
+                                    <a href="#general" data-toggle="tab"><i class="fa fa-fw fa-lg fa-book"></i> Customer Information</a>
+                                </li>
+                                <li>
+                                    <a href="#findim" data-toggle="tab"><i class="fa fa-fw fa-lg fa-pencil-square-o"></i> Data Peserta</a>
+                                </li>
+                                <li>
+                                    <a href="#termcond" data-toggle="tab"><i class="fa fa-fw fa-lg fa-pencil-square-o"></i> Term and Condition</a>
+                                </li>
+                                <li>
+                                    <a href="#distrib" data-toggle="tab"><i class="fa fa-fw fa-lg fa-pencil-square-o"></i> Distribution</a>
+                                </li>
+                                <li>
+                                    <a href="#loading" data-toggle="tab"><i class="fa fa-fw fa-lg fa-pencil-square-o"></i> Loading</a>
+                                </li>
+                                <li>
+                                    <a href="#archieve" data-toggle="tab"><i class="fa fa-fw fa-lg fa-pencil-square-o"></i> Archieve</a>
+                                </li>
+                            </ul>
+                            <br />
+
+                            <div id="myTabContent1" class="tab-content">
+                                <div class="tab-pane fade in active" id="general">
+                                    <div class="form-horizontal" style="margin-top: 10px;">
+                                        <div class="col-md-6">
+                                            <div class="form-group">
+                                                <label class="col-md-4 control-label">Nama Perusahaan</label>
+                                                <div class="col-md-8">
+                                                    <input type="text" name="COName" value="PT. Alim Rugi" class="form-control input-xs" />
+                                                </div>
+                                            </div>
+                                            <div class="form-group">
+                                                <label class="col-md-4 control-label">Alamat Perusahaan</label>
+                                                <div class="col-md-8">
+                                                    <textarea class="form-control input-xs" cols="8" rows="4">
+                                                    </textarea>
+                                                </div>
+                                            </div>
+                                            <div class="form-group">
+                                                <label class="col-md-4 control-label">Line Of Business</label>
+                                                <div class="col-md-8">
+                                                    <input type="text" name="lob" value="Jasa Asuransi" class="form-control input-xs" />
+                                                </div>
+                                            </div> 
+                                            <div class="form-group">
+                                                <label class="col-md-4 control-label">NPWP Perusahaan</label>
+                                                <div class="col-md-8">
+                                                    <input type="text" class="form-control input-xs">
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="col-md-6">
+                                            <div class="form-group">
+                                                <label class="col-md-4 control-label">Kanal Informasi Perusahaan</label>
+                                                <div class="col-md-8">
+                                                    <input type="text" class="form-control input-xs" placeholder="ex. website addr">
+                                                </div>
+                                            </div>
+                                            <div class="form-group">
+                                                <label class="col-md-4 control-label">Tanggal Efektif</label>
+                                                <div class="col-md-8">
+                                                    <input type="text" class="form-control input-xs" value="2022-01-23" readonly>
+                                                </div>
+                                            </div>
+                                            <div class="form-group">
+                                                <label class="col-md-4 control-label">Email</label>
+                                                <div class="col-md-8">
+                                                    <input type="text" class="form-control input-xs">
+                                                </div>
+                                            </div>
+                                            <div class="form-group">
+                                                <label class="col-md-4 control-label">Phone</label>
+                                                <div class="col-md-8">
+                                                    <input type="text" class="form-control input-xs">
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <div class="tab-pane fade" id="findim">
+                                    <header style="margin: 5px 0 5px 5px;">
+                                        <button id="addMember" class="btn btn-xs btn-primary">
+                                            <i class="fa fa-plus"></i> Add Member
+                                        </button>
+                                        <button id="uploadMember" class="btn btn-xs btn-primary">
+                                            <i class="fa fa-download"></i> Download Template
+                                        </button>
+                                        <button id="uploadMember" class="btn btn-xs btn-primary">
+                                            <i class="fa fa-upload"></i> Upload Member
+                                        </button>
+                                    </header>
+
+                                    <div class="table-responsive">
+                                        <table id="" class="display datatable table table-striped table-bordered">
+                                            <thead>
+                                                <tr>
+                                                    <th>No.</th>
+                                                    <th>Full Name</th>
+                                                    <th>Date Of Birth</th>
+                                                    <th>Age</th>
+                                                    <th>Gender</th>
+                                                    <th>Address</th>
+                                                    <th>Email</th>
+                                                    <th>Aksi</th>
+                                                </tr>
+                                            </thead>
+                                            <tbody>
+                                                
+                                            </tbody>
+                                        </table>
+                                    </div>
+                                </div>
+
+                                <div class="tab-pane fade" id="termcond">
+                                    <!--TC Header-->
+                                    <div class="row">
+                                        <article class="col-sm-12 col-md-12">
+                                            <!-- Widget ID (each widget will need unique ID)-->
+                                            <div class="jarviswidget jarviswidget-color-greenDark" id="wid-id-2" data-widget-editbutton="false" data-widget-fullscreenbutton="false" data-widget-colorbutton="false" data-widget-deletebutton="false">
+                                                <header>
+                                                    <span class="widget-icon"> <i class="fa fa-table"></i> </span>
+                                                    <h2>Main Term And Condition </h2>
+                                                </header>
+
+                                                <!-- widget div-->
+                                                <div>
+
+                                                    <!-- widget edit box -->
+                                                    <div class="jarviswidget-editbox">
+                                                        <!-- This area used as dropdown edit box -->
+
+                                                    </div>
+                                                    <!-- end widget edit box -->
+                                                    <!-- widget content -->
+                                                    <div class="widget-body no-padding">
+                                                        <div class="form-horizontal" style="margin-top: 10px;">
+                                                            <div class="form-group">
+                                                                <label class="col-md-2 control-label">Start Date</label>
+                                                                <div class="col-md-4">
+                                                                    <input type="text" class="form-control input-xs">
+                                                                </div>
+                                                            </div>
+                                                            <div class="form-group">
+                                                                <label class="col-md-2 control-label">TC</label>
+                                                                <div class="col-md-4">
+                                                                    <input type="text" class="form-control input-xs">
+                                                                </div>
+                                                            </div>
+                                                            <div class="form-group">
+                                                                <label class="col-md-2 control-label"></label>
+                                                                <div class="col-md-4">
+                                                                    <select class="form-control input-xs">
+                                                                        <option>Takaful Al-Khairat</option>
+                                                                    </select>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                        <br />
+                                                        <div class="table-responsive" style="padding:10px;">
+                                                            <table class="table table-hover">
+                                                                <thead>
+                                                                    <tr>
+                                                                        <th>#</th>
+                                                                        <th>Start Date</th>
+                                                                        <th>TC</th>
+                                                                        <th></th>
+                                                                    </tr>
+                                                                </thead>
+                                                                <tbody>
+                                                                    <tr>
+                                                                        <td>1</td>
+                                                                        <td>09 Maret 2025</td>
+                                                                        <td>G005034-00200500096634 - Takaful Al-Khairat</td>
+                                                                        <td></td>
+                                                                    </tr>
+                                                                </tbody>
+                                                            </table>
+
+                                                        </div>
+                                                    </div>
+                                                    <!-- end widget content -->
+
+                                                </div>
+                                                <!-- end widget div -->
+                                            </div>
+                                            <!-- End Widget-->
+                                        </article>
+                                    </div>
+                                    <!--End TC Header-->
+
+                                    <!--Details Term and Condition-->
+                                    <div class="row">
+                                        <!--Left Table-->
+                                        <article class="col-sm-12 col-md-12 col-lg-6">
+                                            <!-- Widget ID (each widget will need unique ID)-->
+                                            <div class="jarviswidget jarviswidget-color-greenDark" id="wid-id-3" data-widget-editbutton="false" data-widget-fullscreenbutton="false" data-widget-colorbutton="false" data-widget-deletebutton="false">
+                                                <header>
+                                                    <span class="widget-icon"> <i class="fa fa-table"></i> </span>
+                                                    <h2>Benefit </h2>
+                                                </header>
+
+                                                <!-- widget div-->
+                                                <div>
+
+                                                    <!-- widget edit box -->
+                                                    <div class="jarviswidget-editbox">
+                                                        <!-- This area used as dropdown edit box -->
+
+                                                    </div>
+                                                    <!-- end widget edit box -->
+                                                    <!-- widget content -->
+                                                    <div class="widget-body no-padding">
+                                                        <div class="table-responsive">
+
+                                                            <table class="table table-hover">
+                                                                <thead>
+                                                                    <tr>
+                                                                        <th>#</th>
+                                                                        <th>Group</th>
+                                                                        <th>Item</th>
+                                                                        <th>Value</th>
+                                                                    </tr>
+                                                                </thead>
+                                                                <tbody>
+                                                                    <tr>
+                                                                        <td>1</td>
+                                                                        <td>MAIN CRITERIA</td>
+                                                                        <td>MAXIMUM AGE + TENOR</td>
+                                                                        <td>56</td>
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <td>2</td>
+                                                                        <td>MAIN CRITERIA</td>
+                                                                        <td>FREE COVER ACCEPTANCE</td>
+                                                                        <td>AUTO APPROVED</td>
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <td>3</td>
+                                                                        <td>MAIN CRITERIA</td>
+                                                                        <td>AGE TYPE</td>
+                                                                        <td>NEAREST BIRTHDAY</td>
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <td>4</td>
+                                                                        <td>MAIN CRITERIA</td>
+                                                                        <td>MEDICAL MATRIX</td>
+                                                                        <td>UW MATRIX - FREE COVER 100JT 65 TAHUN</td>
+                                                                    </tr>
+                                                                </tbody>
+                                                            </table>
+
+                                                        </div>
+                                                    </div>
+                                                    <!-- end widget content -->
+
+                                                </div>
+                                                <!-- end widget div -->
+                                            </div>
+                                            <!-- End Widget-->
+                                        </article>
+                                        <!--End Left Table-->
+
+                                        <!--Right Table-->
+                                        <article class="col-sm-12 col-md-12 col-lg-6">
+                                            <!-- Widget ID (each widget will need unique ID)-->
+                                            <div class="jarviswidget jarviswidget-color-greenDark" id="wid-id-4" data-widget-editbutton="false" data-widget-fullscreenbutton="false" data-widget-colorbutton="false" data-widget-deletebutton="false">
+                                                <header>
+                                                    <span class="widget-icon"> <i class="fa fa-table"></i> </span>
+                                                    <h2>Benefit </h2>
+                                                </header>
+
+                                                <!-- widget div-->
+                                                <div>
+
+                                                    <!-- widget edit box -->
+                                                    <div class="jarviswidget-editbox">
+                                                        <!-- This area used as dropdown edit box -->
+
+                                                    </div>
+                                                    <!-- end widget edit box -->
+                                                    <!-- widget content -->
+                                                    <div class="widget-body no-padding">
+                                                        <div class="table-responsive">
+
+                                                            <table class="table table-hover">
+                                                                <thead>
+                                                                    <tr>
+                                                                        <th>Benefit</th>
+                                                                        <th>Type</th>
+                                                                        <th>Premium Rate</th>
+                                                                    </tr>
+                                                                </thead>
+                                                                <tbody>
+                                                                    <tr>
+                                                                        <td>TERM LIFE</td>
+                                                                        <td>Tetap</td>
+                                                                        <td><a href="#">TERM LIFE - PT BPR SYARIAH HARTA INSAN KARIMAH 6 BULAN</a></td>
+                                                                    </tr>
+                                                                </tbody>
+                                                            </table>
+
+                                                        </div>
+                                                    </div>
+                                                    <!-- end widget content -->
+
+                                                </div>
+                                                <!-- end widget div -->
+                                            </div>
+                                            <!-- End Widget-->
+                                        </article>
+                                        <!--End Right Table-->
+
+                                    </div>
+                                    <!--End Details Term and Condition-->
+
+                                    <!--Medical Table-->
+                                    <div class="row">
+                                        <article class="col-sm-12 col-md-12">
+                                            <!-- Widget ID (each widget will need unique ID)-->
+                                            <div class="jarviswidget jarviswidget-color-greenDark" id="wid-id-5" data-widget-editbutton="false" data-widget-fullscreenbutton="false" data-widget-colorbutton="false" data-widget-deletebutton="false">
+                                                <header>
+                                                    <span class="widget-icon"> <i class="fa fa-table"></i> </span>
+                                                    <h2>Medical Table </h2>
+                                                </header>
+
+                                                <!-- widget div-->
+                                                <div>
+
+                                                    <!-- widget edit box -->
+                                                    <div class="jarviswidget-editbox">
+                                                        <!-- This area used as dropdown edit box -->
+
+                                                    </div>
+                                                    <!-- end widget edit box -->
+                                                    <!-- widget content -->
+                                                    <div class="widget-body no-padding">
+                                                        <div class="table-responsive">
+
+                                                            <table class="table table-hover">
+                                                                <thead>
+                                                                    <tr>
+                                                                        <th>AMOUNT</th>
+                                                                        <th>0</th>
+                                                                        <th>1</th>
+                                                                        <th>2</th>
+                                                                        <th>3</th>
+                                                                        <th>4</th>
+                                                                        <th>5</th>
+                                                                        <th>6</th>
+                                                                        <th>7</th>
+                                                                        <th>8</th>
+                                                                        <th>9</th>
+                                                                        <th>10</th>
+                                                                        <th>11</th>
+                                                                        <th>12</th>
+                                                                        <th>13</th>
+                                                                        <th>14</th>
+                                                                        <th>15</th>
+                                                                        <th>16</th>
+                                                                        <th>17</th>
+                                                                        <th>18</th>
+                                                                        <th>19</th>
+                                                                        <th>20</th>
+                                                                        <th>21</th>
+                                                                        <th>22</th>
+                                                                        <th>23</th>
+                                                                        <th>24</th>
+                                                                        <th>25</th>
+                                                                        <th>26</th>
+                                                                        <th>27</th>
+                                                                        <th>28</th>
+                                                                        <th>29</th>
+                                                                        <th>30</th>
+                                                                        <th>31</th>
+                                                                        <th>32</th>
+                                                                        <th>33</th>
+                                                                        <th>34</th>
+                                                                        <th>35</th>
+                                                                        <th>36</th>
+                                                                        <th>37</th>
+                                                                        <th>38</th>
+                                                                    </tr>
+                                                                </thead>
+                                                                <tbody>
+                                                                    <tr>
+                                                                        <td>0</td>
+                                                                        <td>AC</td>
+                                                                        <td>AC</td>
+                                                                        <td>AC</td>
+                                                                        <td>AC</td>
+                                                                        <td>AC</td>
+                                                                        <td>AC</td>
+                                                                        <td>AC</td>
+                                                                        <td>AC</td>
+                                                                        <td>AC</td>
+                                                                        <td>AC</td>
+                                                                        <td>AC</td>
+                                                                        <td>AC</td>
+                                                                        <td>AC</td>
+                                                                        <td>AC</td>
+                                                                        <td>AC</td>
+                                                                        <td>AC</td>
+                                                                        <td>AC</td>
+                                                                        <td>AC</td>
+                                                                        <td>AC</td>
+                                                                        <td>AC</td>
+                                                                        <td>AC</td>
+                                                                        <td>AC</td>
+                                                                        <td>AC</td>
+                                                                        <td>AC</td>
+                                                                        <td>AC</td>
+                                                                        <td>AC</td>
+                                                                        <td>AC</td>
+                                                                        <td>AC</td>
+                                                                        <td>AC</td>
+                                                                        <td>AC</td>
+                                                                        <td>AC</td>
+                                                                        <td>AC</td>
+                                                                        <td>AC</td>
+                                                                        <td>AC</td>
+                                                                        <td>AC</td>
+                                                                        <td>AC</td>
+                                                                        <td>AC</td>
+                                                                        <td>AC</td>
+                                                                        <td>AC</td>
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <td>100,000,001</td>
+                                                                        <td>00</td>
+                                                                        <td>00</td>
+                                                                        <td>00</td>
+                                                                        <td>00</td>
+                                                                        <td>00</td>
+                                                                        <td>00</td>
+                                                                        <td>00</td>
+                                                                        <td>00</td>
+                                                                        <td>00</td>
+                                                                        <td>00</td>
+                                                                        <td>00</td>
+                                                                        <td>00</td>
+                                                                        <td>00</td>
+                                                                        <td>00</td>
+                                                                        <td>00</td>
+                                                                        <td>00</td>
+                                                                        <td>00</td>
+                                                                        <td>00</td>
+                                                                        <td>00</td>
+                                                                        <td>00</td>
+                                                                        <td>00</td>
+                                                                        <td>00</td>
+                                                                        <td>00</td>
+                                                                        <td>00</td>
+                                                                        <td>00</td>
+                                                                        <td>00</td>
+                                                                        <td>00</td>
+                                                                        <td>00</td>
+                                                                        <td>00</td>
+                                                                        <td>00</td>
+                                                                        <td>00</td>
+                                                                        <td>00</td>
+                                                                        <td>00</td>
+                                                                        <td>00</td>
+                                                                        <td>00</td>
+                                                                        <td>00</td>
+                                                                        <td>00</td>
+                                                                        <td>00</td>
+                                                                        <td>00</td>
+                                                                    </tr>
+                                                                </tbody>
+                                                            </table>
+
+                                                        </div>
+                                                    </div>
+                                                    <!-- end widget content -->
+
+                                                </div>
+                                                <!-- end widget div -->
+                                            </div>
+                                            <!-- End Widget-->
+                                        </article>
+                                    </div>
+                                    <!--End Medical Table-->
+                                    
+                                </div>
+
+                                <div class="tab-pane fade" id="distrib">
+                                    <h2>Distribution</h2>
+                                </div>
+
+                                <div class="tab-pane fade" id="loading">
+                                    <h2>Loading</h2>
+                                </div>
+
+                                <div class="tab-pane fade" id="archieve">
+                                    <h2>Archieve</h2>
+                                </div>
+
+                                <div class="col-md-12 no-padding text-center">
+                                    <div class="smart-form">
+                                        <footer>
+                                            <button type="submit" class="btn btn-primary">
+                                                <i class="fa fa-fw fa-save"></i>Save
+                                            </button>
+                                        </footer>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- End widget content -->
+                    </div>
+                    <!-- End widget div-->
+                </div>
+            </article>
+        </div>
+        <!--End Header Quotation-->
+    </section>
+    <!--WIDGET GRID-->
+</div>
+<!--End Main Content-->

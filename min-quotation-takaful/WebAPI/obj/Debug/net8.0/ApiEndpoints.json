@@ -1,0 +1,38 @@
+[
+  {
+    "ContainingType": "WebAPI.Controllers.LoginController",
+    "Method": "LoginAsync",
+    "RelativePath": "api/Login/GenerateTokenBySessionId",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "loginModel",
+        "Type": "App.Core.Models.Login.LoginModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebAPI.Controllers.MailController",
+    "Method": "SendMail",
+    "RelativePath": "api/Mail/SendMail",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.String",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]
