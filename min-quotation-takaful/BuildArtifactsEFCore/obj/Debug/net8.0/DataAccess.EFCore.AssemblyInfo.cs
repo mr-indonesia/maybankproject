@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DataAccess.EFCore")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2dbde86479dfdc3a811eda6fc0ea094ef1eccbb7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+66587cefb4e84cb6b2ab828f87b4332bf52c8003")]
 [assembly: System.Reflection.AssemblyProductAttribute("DataAccess.EFCore")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DataAccess.EFCore")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
