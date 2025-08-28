@@ -14,10 +14,5 @@
   <ItemGroup>
     <ProjectReference Include="..\SharedKernel\SharedKernel.csproj" />
   </ItemGroup>
-  
-  <PropertyGroup>
-   <BaseIntermediateOutputPath>$(SolutionDir)\BuildArtifactsEFCore\obj\</BaseIntermediateOutputPath>
-   <OutputPath>$(SolutionDir)\BuildArtifactsEFCore\bin\</OutputPath>
-  </PropertyGroup>
 
 </Project>

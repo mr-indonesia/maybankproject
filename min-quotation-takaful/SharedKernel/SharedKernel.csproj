@@ -7,10 +7,5 @@
   <ItemGroup>
     <PackageReference Include="Dapper" Version="2.1.28" />
   </ItemGroup>
-  
-  <PropertyGroup>
-   <BaseIntermediateOutputPath>$(SolutionDir)\BuildArtifactsSharedKernel\obj\</BaseIntermediateOutputPath>
-   <OutputPath>$(SolutionDir)\BuildArtifactsSharedKernel\bin\</OutputPath>
-  </PropertyGroup>
 
 </Project>

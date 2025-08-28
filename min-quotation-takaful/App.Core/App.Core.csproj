@@ -21,10 +21,5 @@
     <Folder Include="Helpers\" />
     <Folder Include="ViewModels\" />
   </ItemGroup>
-  
-  <PropertyGroup>
-   <BaseIntermediateOutputPath>$(SolutionDir)\BuildArtifactsAppCore\obj\</BaseIntermediateOutputPath>
-   <OutputPath>$(SolutionDir)\BuildArtifactsAppCore\bin\</OutputPath>
-  </PropertyGroup>
 
 </Project>
