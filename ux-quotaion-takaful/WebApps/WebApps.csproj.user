@@ -12,4 +12,8 @@
     <WebStackScaffolding_LayoutPageFile />
     <NameOfLastUsedPublishProfile>D:\CodeReview\QuotationService\HyundaiGit\ux-quotaion-takaful\WebApps\Properties\PublishProfiles\FolderProfile.pubxml</NameOfLastUsedPublishProfile>
   </PropertyGroup>
+  <PropertyGroup>
+   <BaseIntermediateOutputPath>$(SolutionDir)\BuildArtifacts\obj\</BaseIntermediateOutputPath>
+   <OutputPath>$(SolutionDir)\BuildArtifacts\bin\</OutputPath>
+  </PropertyGroup>
 </Project>
