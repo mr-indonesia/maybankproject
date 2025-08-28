@@ -14,5 +14,10 @@
   <ItemGroup>
     <ProjectReference Include="..\SharedKernel\SharedKernel.csproj" />
   </ItemGroup>
+  
+  <PropertyGroup>
+   <BaseIntermediateOutputPath>$(SolutionDir)\BuildArtifacts\obj\</BaseIntermediateOutputPath>
+   <OutputPath>$(SolutionDir)\BuildArtifacts\bin\</OutputPath>
+  </PropertyGroup>
 
 </Project>
